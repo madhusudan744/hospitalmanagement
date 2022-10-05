@@ -1,0 +1,19 @@
+
+**Instructions**
+
+- extract zipfile
+- open HospitalManagement_Django > go to filepath > open that in CMD.
+- In CMD Install the Requirements: pip install -r requirement.txt.
+- Then, make database migrations: python manage.py makemigrations.
+- python manage.py migrate.
+- And finally, open vscode >> HospitalManagement_Django >> hospital >> models >>  run the application: python manage.py runserver.
+- Then link will be generated move the mouse pointer over it and press >> ctrl+click.
+
+
+
+
+
+
+
+
+
